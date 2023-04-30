@@ -2,8 +2,10 @@
 
 ## Description
 
-- A social news site, Just Tech News, builded with Java Spring Boot framework for RestfulAPIs
-- Building a Spring Boot API with creating CRUD operations with Spring Data JPA and MySQL database
+- Full stack web application built with Java Spring Boot for REST APIs
+- Created CRUD operations with Spring Data JPA and MySQL database
+- Used Thymeleaf for the user interface
+- Utilized Spring Session and Spring Security for sign-up and sign-in features
 
 ## Built with
 
