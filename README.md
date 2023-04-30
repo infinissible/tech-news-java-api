@@ -2,7 +2,7 @@
 
 ## Description
 
-- Full stack web application built with Java Spring Boot for REST APIs
+- A dynamic web application built with Java Spring Boot for REST APIs
 - Created CRUD operations with Spring Data JPA and MySQL database
 - Used Thymeleaf for the user interface
 - Utilized Spring Session and Spring Security for sign-up and sign-in features
